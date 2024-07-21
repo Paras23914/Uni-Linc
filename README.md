@@ -71,6 +71,9 @@ Un-Linc is a comprehensive management application designed to streamline the adm
 ### Video of Project
 
 
+https://drive.google.com/file/d/18ettoHkm-Opr2KRJQbS0SD-1JgC8fXxu/view?usp=drive_link
+
+
 
    
 ### Screenshots
