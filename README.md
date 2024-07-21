@@ -69,12 +69,7 @@ Un-Linc is a comprehensive management application designed to streamline the adm
    flutter run
    ```
 ### Video of Project
-
-
-https://drive.google.com/file/d/18ettoHkm-Opr2KRJQbS0SD-1JgC8fXxu/view?usp=drive_link
-
-
-
+<iframe src="https://drive.google.com/file/d/18ettoHkm-Opr2KRJQbS0SD-1JgC8fXxu/preview" width="640" height="480" allow="autoplay"></iframe>
    
 ### Screenshots
 <body style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
