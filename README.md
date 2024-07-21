@@ -68,7 +68,12 @@ Un-Linc is a comprehensive management application designed to streamline the adm
    ```bash
    flutter run
    ```
+### Video of Project
 
+
+
+   
+### Screenshots
 <body style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
     <img src="https://github.com/user-attachments/assets/ff2f5b01-fc1b-4394-a5a8-5430ea64c4c3" alt="Image 1" style="width: 30%;">
     <img src="https://github.com/user-attachments/assets/c00f1bb4-5df0-434a-b4d5-84220bcfc35e" alt="Image 2" style="width: 30%;">
